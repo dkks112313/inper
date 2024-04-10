@@ -1,0 +1,7 @@
+a = 5
+b = 1
+
+loop a < 10
+    input a
+    print a 
+end
